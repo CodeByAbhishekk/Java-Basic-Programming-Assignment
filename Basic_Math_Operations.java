@@ -2,7 +2,7 @@ package Java1;
 
 public class Basic_Math_Operations {
 	
-	static int addition(int a, int b) {
+	 static int addition(int a, int b) {
 		return a+b;
 	} 
 	static int sub(int a, int b) {
