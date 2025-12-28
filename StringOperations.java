@@ -1,3 +1,37 @@
+# String Assignment (Java)
+
+## Description
+This project demonstrates:
+- Differences between String, StringBuffer, and StringBuilder
+- Common String operations in Java
+
+## String Methods Used
+- length()
+- isEmpty()
+- charAt()
+- toString()
+- equals()
+- compareTo()
+- contains()
+- indexOf()
+- lastIndexOf()
+- startsWith()
+- endsWith()
+- matches()
+- substring()
+- toLowerCase()
+- trim()
+- replace()
+- split()
+- join()
+- valueOf()
+
+## How to Run
+javac StringOperations.java
+java StringOperations
+
+
+
 package Java1;
 
 public class StringOperations {
